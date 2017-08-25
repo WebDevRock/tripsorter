@@ -52,7 +52,7 @@ Unit testing is confined 2 tests and 3 assertions as there isn't much functional
  
  Tests for this project are in "tests/Unit/" and the json file for testing is in the root folder, named "test.json".
  
- To run the unit tess from the command line navigate to the source code and use the following command:
+ To run the unit test from the command line navigate to the source code and use the following command:
 
 ```command
 php vendor/phpunit/phpunit/phpunit
