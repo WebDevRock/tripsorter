@@ -1,0 +1,33 @@
+[
+  {
+    "baggage": "Baggage drop at ticket counter 344",
+    "seat": "3A",
+    "gate": "45B",
+    "to": "Stockholm",
+    "from": "Gerona Airport",
+    "flight": "SK455",
+    "type": "flight"
+  },
+  {
+    "to": "Gerona Airport",
+    "from": "Barcelona",
+    "type": "airportbus"
+  },
+  {
+    "seat": "45B",
+    "to": "Barcelona",
+    "from": "Madrid",
+    "train": "78A",
+    "type": "train"
+  },
+  {
+    "baggage": "Baggage will be automatically transferred from your last leg",
+    "seat": "7B",
+    "gate": "22",
+    "to": "New York JFK",
+    "from": "Stockholm",
+    "flight": "SK22",
+    "type": "flight"
+  }
+
+]
